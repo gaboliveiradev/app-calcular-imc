@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraIMC.MainPage">
+
+    <Grid RowDefinitions="*, *, *, *, *, *, *" ColumnDefinitions="*, *, *">
+        <Label 
+            Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+            Text="Calculadora IMC" FontSize="32" TextColor="#1E90FF"
+        />
+        
+        <Entry 
+            x:Name="peso_digitado" Placeholder="Quantos kilos você pesa [Exp.: 65.2]:" FontSize="18" Margin="20"
+            Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3"
+        />
+
+        <Entry 
+            x:Name="altura_digitada" Placeholder="Quantos metros você mede [Exp.: 1.98]:" FontSize="18" Margin="20"
+            Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" 
+        />
+
+        <Button 
+            Grid.Row="3" Grid.Column="1" BackgroundColor="#87CEEB" Margin="10, 20"
+            Text="Calcular" Clicked="Button_Clicked"
+        />
+
+        <Label 
+            Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" 
+            x:Name="resultado" Text="Veja seu resultado aqui" TextColor="#1E90FF"
+            HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="24"
+        />
+
+        <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="22"
+            Text="Menor que 18.5 | Magreza&#10;Entre 18.5 e 24.9 | Normal&#10;Entre 25 e 29.9 | Sobrepeso&#10;Entre 30 e 39.9 | Obesidade&#10;Mais que 40 | Obesidade Grave"       
+            TextColor="#333"
+        />
+
+    </Grid>
+
+</ContentPage>

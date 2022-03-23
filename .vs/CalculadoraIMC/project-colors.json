@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10d1fc44-30e9-4dbe-a1b2-44a2a6020c0a": {
+      "ProjectGuid": "10d1fc44-30e9-4dbe-a1b2-44a2a6020c0a",
+      "DisplayName": "CalculadoraIMC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

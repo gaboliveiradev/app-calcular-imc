@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.deps.json
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.dll
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\ref\CalculadoraIMC.dll
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.pdb
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.dll
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\ref\CalculadoraIMC.dll
+C:\Users\Usuario\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.pdb
